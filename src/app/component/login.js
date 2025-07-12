@@ -29,7 +29,7 @@ export default function Login() {
       <div className="bg-white p-8 rounded shadow-md w-full max-w-sm">
         <h2 className="text-2xl font-bold mb-4 text-center">Login</h2>
 
-        {/* ✅ Show hardcoded credentials here */}
+     
         <div className="text-sm text-gray-600 bg-gray-100 p-3 rounded mb-4 border border-gray-300">
           <p className="font-semibold mb-1 text-gray-700">Demo Credentials:</p>
           <p><strong>Email:</strong> admin@example.com</p>

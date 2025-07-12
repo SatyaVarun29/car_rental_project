@@ -45,7 +45,7 @@ export default function Dashboard() {
       item.id === editItem.id ? { ...item, title: updatedTitle, price: updatedPrice } : item
     );
     setListings(updated);
-    setEditItem(null); // close modal
+    setEditItem(null); 
   };
 
   return (
